@@ -88,7 +88,6 @@ This project helps businesses:
 - Support data-driven decision making
 
   ## Dashboard Preview
-https://youtu.be/rZBD9p1bkaQ
 ### Credit Card Transaction Report
 ![Transaction Dashboard](cc.png)
 
