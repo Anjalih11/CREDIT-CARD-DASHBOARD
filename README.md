@@ -45,8 +45,11 @@ The dashboards answer the following business questions:
 - Data Modeling
 
   
-![Data modeling](Annotation 2026-03-11 163601.png)
+## Data Model
 
+The following data model was created in Power BI to establish relationships between transaction and customer datasets.
+
+![Data Model](Annotation%202026-03-11%20163601.png)
 
 ---
 
