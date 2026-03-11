@@ -42,7 +42,11 @@ The dashboards answer the following business questions:
 - SQL  
 - Power Query  
 - DAX  
-- Data Modeling  
+- Data Modeling
+
+  
+![Data modeling](Annotation 2026-03-11 163601.png)
+
 
 ---
 
