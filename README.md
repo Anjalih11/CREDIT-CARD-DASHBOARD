@@ -10,6 +10,7 @@ The project consists of two dashboards:
 1. **Credit Card Transaction Report**
    ![Transaction Dashboard](cc.png)
 3. **Credit Card Customer Report**
+   ![Transaction Dashboard](ccre.png)
 
 ---
 
