@@ -75,7 +75,7 @@ The dashboards help answer the following business questions:
 
 The following data model was created in Power BI to establish relationships between transaction and customer datasets.
 
-![Data Model](Images/data_model.png)
+![Data Model](dm.png)
 
 ---
 
